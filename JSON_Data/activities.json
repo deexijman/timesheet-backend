@@ -1,0 +1,13 @@
+{
+    "activities": {
+      "bau": {
+        "bau_001": ["Stakeholder Meeting", "Code Review"],
+        "bau_002": ["Daily Standup", "Documentation Review", "Performance Testing", "Bug Fixing"]
+      },
+      "sales": {
+        "sales_001": ["Client Meeting", "Follow-up Calls", "Presentation Preparation"],
+        "sales_002": ["Market Research", "Strategy Planning", "Review Sales Targets", "Client Outreach", "Proposal Drafting"]
+      }
+    }
+  }
+  
